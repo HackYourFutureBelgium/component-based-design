@@ -1,5 +1,6 @@
 import { List } from './List';
 import { Button } from './Button';
+import Footer from './Footer'
 
 import './App.css';
 
@@ -12,5 +13,6 @@ export const App = () => (
     <main>
       <List />
     </main>
+    <Footer/>
   </>
 );
