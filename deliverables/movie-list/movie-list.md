@@ -1,6 +1,6 @@
 # movie list application
 
-Using [this](component-based-design/deliverables/film.json) Data, Vite app that allows the users to get detailed information over the movies from the movie data.
+Using [this](https://github.com/HackYourFutureBelgium/component-based-design/blob/main/deliverables/movie-list/film.json) Data, Vite app that allows the users to get detailed information over the movies from the movie data.
 
 you can take a look here for [inspiration](https://react-query-movies-app.netlify.app/)
 
